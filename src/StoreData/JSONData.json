@@ -1,0 +1,19 @@
+{
+	"Petugas":{
+            "1":{
+                    "nama":"Fariz Fadillah",
+                    "id":"1",
+                    "alamat":"Yogyakarta",
+                    "kelamin":"L"
+		}
+	},
+	"Pelanggan":{
+
+	},
+	"Asset":{
+
+	},
+	"AssetPelanngan":{
+
+	}
+}
